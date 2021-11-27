@@ -1,5 +1,5 @@
 <br/>
-An Android source for building advanced sliders 😍
+An Android source for building advanced slider 😍
 <br/>
 <br/>
 <br/>
